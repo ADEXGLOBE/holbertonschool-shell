@@ -5,6 +5,4 @@ standard output, redirections, and filters.
 
 ## Scripts
 
-- 0-hello_world: Prints "Hello, World" followed by a newline.
-- 1-confused_smiley: Displays a confused smiley using special characters.
-- 2-hellofile: Displays the contents of the /etc/passwd file.
+- 3-twofiles: Displays the contents of /etc/passwd and /etc/hosts.
