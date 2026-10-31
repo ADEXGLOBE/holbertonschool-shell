@@ -12,3 +12,4 @@ standard output, redirections, and filters.
 - 8-cwd_state: Saves the output of ls -la to ls_cwd_content, overwriting existing content.
 - 9-duplicate_last_line: Duplicates the last line of the file iacta using tail and append redirection.
 - 10-no_more_js: Deletes all regular .js files in the current directory and its subdirectories.
+- 11-directories: Counts directories and subdirectories, including hidden directories, excluding the current directory.
