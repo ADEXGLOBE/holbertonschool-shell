@@ -21,3 +21,4 @@ standard output, redirections, and filters.
 - 17-hidethisword: Displays lines from /etc/passwd that do not contain the pattern bin.
 - 18-letteronly: Displays lines from /etc/ssh/sshd_config that begin with an uppercase or lowercase letter.
 - 19-AZ: Replaces uppercase A with Z and lowercase c with e using tr.
+- 20-hiago: Removes all uppercase C and lowercase c characters from standard input.
