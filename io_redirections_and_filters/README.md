@@ -9,3 +9,4 @@ standard output, redirections, and filters.
 - 5-firstlines: Displays the first 10 lines of /etc/passwd.
 - 6-third_line: Displays the third line of the file iacta using head and tail.
 - 7-file: Creates a file with a special-character filename containing Best School followed by a newline.
+- 8-cwd_state: Saves the output of ls -la to ls_cwd_content, overwriting existing content.
