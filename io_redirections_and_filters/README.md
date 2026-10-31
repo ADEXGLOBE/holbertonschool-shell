@@ -22,3 +22,4 @@ standard output, redirections, and filters.
 - 18-letteronly: Displays lines from /etc/ssh/sshd_config that begin with an uppercase or lowercase letter.
 - 19-AZ: Replaces uppercase A with Z and lowercase c with e using tr.
 - 20-hiago: Removes all uppercase C and lowercase c characters from standard input.
+- 21-reverse: Reverses the characters in each line of standard input.
