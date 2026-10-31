@@ -18,3 +18,4 @@ standard output, redirections, and filters.
 - 14-findthatword: Displays all lines containing root from /etc/passwd..
 - 15-countthatword: Counts the number of lines containing the pattern bin in /etc/passwd.
 - 16-whatsnext: Displays lines containing root and the following three lines from /etc/passwd.
+- 17-hidethisword: Displays lines from /etc/passwd that do not contain the pattern bin.
