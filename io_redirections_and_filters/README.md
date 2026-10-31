@@ -14,3 +14,4 @@ standard output, redirections, and filters.
 - 10-no_more_js: Deletes all regular .js files in the current directory and its subdirectories.
 - 11-directories: Counts directories and subdirectories, including hidden directories, excluding the current directory
 - 12-newest_files: Displays the 10 newest directory entries, sorted by modification time..
+- 13-unique: Sorts input words and displays only those appearing exactly once.
