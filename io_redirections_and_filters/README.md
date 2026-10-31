@@ -16,3 +16,4 @@ standard output, redirections, and filters.
 - 12-newest_files: Displays the 10 newest directory entries, sorted by modification time..
 - 13-unique: Sorts input words and displays only those appearing exactly once
 - 14-findthatword: Displays all lines containing root from /etc/passwd..
+- 15-countthatword: Counts the number of lines containing the pattern bin in /etc/passwd.
