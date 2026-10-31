@@ -19,3 +19,4 @@ standard output, redirections, and filters.
 - 15-countthatword: Counts the number of lines containing the pattern bin in /etc/passwd.
 - 16-whatsnext: Displays lines containing root and the following three lines from /etc/passwd.
 - 17-hidethisword: Displays lines from /etc/passwd that do not contain the pattern bin.
+- 18-letteronly: Displays lines from /etc/ssh/sshd_config that begin with an uppercase or lowercase letter.
