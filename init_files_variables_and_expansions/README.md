@@ -14,3 +14,4 @@ aliases, expansions, and shell arithmetic.
 - 7-create_global_variable: Creates and exports the BEST environment variable with the value School.
 - 8-true_knowledge: Prints the value of TRUEKNOWLEDGE plus 128.
 - 9-divide_and_rule: Divides the value of POWER by DIVIDE and prints the result.
+- 10-love_exponent_breath: Calculates BREATH raised to the power of LOVE.
