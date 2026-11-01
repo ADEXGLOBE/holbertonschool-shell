@@ -10,3 +10,4 @@ aliases, expansions, and shell arithmetic.
 - 2-path: Appends /action to the PATH environment variable.
 - 3-paths: Counts the number of directories in the PATH environment variable.
 - 5-local_variables: Lists shell variables, environment variables, and shell functions.
+- 6-create_local_variable: Creates a local Bash variable named BEST with the value School.
