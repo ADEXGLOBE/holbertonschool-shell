@@ -12,3 +12,4 @@ aliases, expansions, and shell arithmetic.
 - 5-local_variables: Lists shell variables, environment variables, and shell functions.
 - 6-create_local_variable: Creates a local Bash variable named BEST with the value School.
 - 7-create_global_variable: Creates and exports the BEST environment variable with the value School.
+- 8-true_knowledge: Prints the value of TRUEKNOWLEDGE plus 128.
