@@ -7,3 +7,4 @@ aliases, expansions, and shell arithmetic.
 
 - 0-alias: Defines an alias named ls that expands to rm *.
 - 1-hello_you: Prints hello followed by the current Linux username using the USER environment variable.
+- 2-path: Appends /action to the PATH environment variable.
