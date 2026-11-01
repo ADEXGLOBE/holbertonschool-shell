@@ -18,3 +18,4 @@ aliases, expansions, and shell arithmetic.
 - 11-binary_to_decimal: Converts the binary value stored in BINARY to decimal.
 - 12-combinations: Prints all alphabetically ordered two-letter combinations except oo.
 - 13-print_float: Displays the value of NUM formatted to two decimal places.
+- 14-decimal_to_hexadecimal: Converts the decimal value stored in DECIMAL to lowercase hexadecimal.
