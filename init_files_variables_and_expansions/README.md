@@ -16,3 +16,4 @@ aliases, expansions, and shell arithmetic.
 - 9-divide_and_rule: Divides the value of POWER by DIVIDE and prints the result.
 - 10-love_exponent_breath: Calculates BREATH raised to the power of LOVE.
 - 11-binary_to_decimal: Converts the binary value stored in BINARY to decimal.
+- 12-combinations: Prints all alphabetically ordered two-letter combinations except oo.
